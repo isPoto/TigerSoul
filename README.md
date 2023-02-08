@@ -27,7 +27,7 @@
 右侧的虎点可以左键拖拽移动位置，移到屏幕下方，方便打字时对照  
 双击右侧虎点退出键魂  
 
-鼠标右键右击右侧小紫点，捐赠 Poto 和定制软件找 Poto！
+鼠标右键右击右侧小虎点，捐赠 Poto 和定制软件找 Poto！
 
 <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
 <script>
