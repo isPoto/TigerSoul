@@ -1,6 +1,10 @@
 # TigerSoul
 虎魂是 Poto 开发的虎码虚拟键位辅助软件，帮助初学者在知晓规则的前提下即刻上手体验虎码打字的乐趣
 
+![Clipboard - 2023-02-08 11 36 41](https://user-images.githubusercontent.com/59009389/217522658-05524571-b58e-478f-94af-268d35645613.png)
+
+<a href="https://github.com/isPoto/TigerSoul/releases/download/4/TigerSoulByPotoVersion4.zip" target="blank"><img border="0" src="https://user-images.githubusercontent.com/59009389/209811676-4efe1313-5e2a-476c-856b-537c7ba196e7.png" alt="Download for Win" title="Download for Win"></a>
+
 [虎码](https://tiger-code.com/index.html)是一个设计优秀的四码形码方案，单字的性能和手感相当不错
 
 你想要掌握虎码，但你不想去费劲练习字根键位  
