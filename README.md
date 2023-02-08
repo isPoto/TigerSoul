@@ -3,6 +3,8 @@
 
 ![Clipboard - 2023-02-08 11 36 41](https://user-images.githubusercontent.com/59009389/217522658-05524571-b58e-478f-94af-268d35645613.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o8uvBa-oa5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <a href="https://github.com/isPoto/TigerSoul/releases/download/4/TigerSoulByPotoVersion4.zip" target="blank"><img border="0" src="https://user-images.githubusercontent.com/59009389/209811676-4efe1313-5e2a-476c-856b-537c7ba196e7.png" alt="Download for Win" title="Download for Win"></a>
 
 [虎码](https://tiger-code.com/index.html)是一个设计优秀的四码形码方案，单字的性能和手感相当不错
@@ -25,3 +27,13 @@
 双击右侧虎点退出键魂  
 
 鼠标右键右击右侧小紫点，捐赠 Poto 和定制软件找 Poto！
+
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('ispoto', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Sponsor Poto',
+    'floating-chat.donateButton.background-color': '#00b9fe',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
